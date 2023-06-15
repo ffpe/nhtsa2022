@@ -4,7 +4,7 @@ Analysis of traffic accidents and from NHTSA (National Highway Traffic Safety Ad
 Recommendations on how to reduce accidents. 
 
 Report done in Indonesian.
-## Project done as a team using SQL
+## Project done as a team using PostgreSQL
 Project completed on: August 2022
 
 Dataset used: NHTSA 2021
