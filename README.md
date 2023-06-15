@@ -1,4 +1,4 @@
-# nhtsa2022
+# NHTSA Traffic Analysis and Recommendations to Reduce Accidents
 Analysis of traffic accidents and from NHTSA (National Highway Traffic Safety Administration). 
 
 Recommendations on how to reduce accidents. 
